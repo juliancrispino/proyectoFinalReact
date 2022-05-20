@@ -15,7 +15,7 @@ git clone https://github.com/juliancrispino/proyectoFinalReact
 Esta pagina esta hecha con _React JS_, por lo que se debe correr con *npm* desde la consola.
 
 ```
-npm start
+npm run dev
 ```
 Y se visualiza en el navegador abriendo [http://localhost:3000](http://localhost:3000).
 
