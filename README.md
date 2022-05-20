@@ -1,6 +1,6 @@
 #  Tus peliculas fav
 
-_Bienvenidos al sitio de estrenos.
+_Bienvenidos al sitio de estrenos_
 
 ## Comienzo 🚀
 
